@@ -2,7 +2,7 @@
 
 Shortest path algorithm implemented with labels and predecessors.
 
-The output tables have rows updated with new values for all the algorithm iteration.
+Output tables have rows with processed values from the last algorithm iteration on the same graph table row.
 
 ```
 # Input graph
